@@ -1,6 +1,5 @@
 # 💫 About Me:
 I’m currently working on full stack development.<br>I like explore, collaborate and ready to learn new thins<br>I’m currently learning backend developing<br>I have expertise with various programming languages such as php, python, java, javascript, nodeJS, express, mongoDb, Mysql, html, css, react, nextjs ,django, data science
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-teddy-251925272) 
