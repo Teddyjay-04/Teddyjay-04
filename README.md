@@ -26,7 +26,7 @@ I’m currently working on full stack development.<br>I like explore, collaborat
 ---
 [![](https://visitcount.itsvg.in/api?id=Teddyjay-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Custom Badge](https://img.shields.io/badge/Cowboy-Coder%20🤠-blue)
+![Quickdraw Gitty up Banner](https://example.com/your-banner.gif)
 
 
 
