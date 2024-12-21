@@ -17,7 +17,7 @@ I’m currently working on full stack development.<br>I like explore, collaborat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Roadnmap
+### Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/6762c6ec8fe51199daf30f38?variant=dark)](https://roadmap.sh)
 
 ### 🔝 Top Contributed Repo
