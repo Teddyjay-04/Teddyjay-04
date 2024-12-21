@@ -20,6 +20,8 @@ I’m currently working on full stack development.<br>I like explore, collaborat
 ### Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/6762c6ec8fe51199daf30f38?variant=dark)](https://roadmap.sh)
 
+
+## Daily.dev
 <a href="https://app.daily.dev/jamesteddy"><img src="https://api.daily.dev/devcards/v2/13Jk5dznxdmeCaI17x8dT.png?r=kve&type=default" width="356" alt="James Teddy's Dev Card"/></a>
 
 ### 🔝 Top Contributed Repo
