@@ -26,7 +26,8 @@ I’m currently working on full stack development.<br>I like explore, collaborat
 ---
 [![](https://visitcount.itsvg.in/api?id=Teddyjay-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Build Status](https://github.com/yourusername/your-repo-name/actions/workflows/your-action.yml/badge.svg)
+![Custom Badge](https://img.shields.io/badge/Cowboy-Coder%20🤠-blue)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
