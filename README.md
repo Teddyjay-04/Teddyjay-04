@@ -18,8 +18,7 @@ I’m currently working on full stack development.<br>I like explore, collaborat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Roadmap
-[![](https://roadmap.sh/card/wide/6762c6ec8fe51199daf30f38?variant=dark)]([https://roadmap.sh/u/teddyjames)
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6762c6ec8fe51199daf30f38?variant=dark" alt="https://roadmap.sh/u/teddyjames"/></a>
 
 ## Daily.dev
 <a href="https://app.daily.dev/jamesteddy"><img src="https://api.daily.dev/devcards/v2/13Jk5dznxdmeCaI17x8dT.png?r=kve&type=default" width="356" alt="James Teddy's Dev Card"/></a>
